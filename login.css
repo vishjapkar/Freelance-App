@@ -1,0 +1,32 @@
+
+.card{
+  height: 600px;
+  width: 550px;
+  font-family: sans-serif;
+  border-radius: 50px;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#submit-btn {
+  border: none;
+  border-radius: 21px;
+  cursor: pointer;
+  color: white;
+  font-family: sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 50px;
+  transition: 0.25s;
+  width: 400px;
+}
+#cancel-btn{
+  border: none;
+  border-radius: 21px;
+  cursor: pointer;
+  color: black;
+  margin-top: 20px;
+  font-family: sans-serif;
+  height: 42.3px;
+  transition: 0.25s;
+  width: 400px;
+}
